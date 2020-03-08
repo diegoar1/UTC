@@ -76,9 +76,9 @@
            data-nav-for="#heroSliderNav">
         <!-- Slide -->
         <div class="js-slide">
-          <div class="container space-top-2 space-bottom-3" style="margin-top: 100px;">
-            <div class="row align-items-lg-center">
-              <div class="col-lg-5 order-lg-2 mb-7 mb-lg-0">
+          <div class="container space-top-2 space-bottom-3 slideUno" style="margin-top: 100px;">
+            <!-- <div class="row align-items-lg-center"> -->
+              <!-- <div class="col-lg-5 order-lg-2 mb-7 mb-lg-0">
                 <div class="mb-6">
                   <h1 class="display-4 font-size-md-down-5 font-weight-semi-bold mb-4">Front original design cap</h1>
                   <p>As well as being game-changers when it comes to technical innovation, Front has some of the bestselling cap in its locker.</p>
@@ -87,22 +87,22 @@
                 <a class="btn btn-icon btn-outline-primary rounded-circle" href="#" data-toggle="tooltip" data-placement="top" title="Save for later">
                   <span class="fas fa-heart btn-icon__inner"></span>
                 </a>
-              </div>
-              <div class="col-lg-6 order-lg-1">
-                <div class="w-85 mx-auto">
-                  <img class="img-fluid" src="../../assets/img/mockups/img8.png" alt="Image Description">
+              </div> -->
+              <!-- <div class="col-lg-12 order-lg-12 ">
+                <div class="w-85 mx-auto" >
+                  <img class="img-fluid" src="../../assets/img/SlideUno.png" alt="Image Description">
                 </div>
-              </div>
-            </div>
+              </div> -->
+            <!-- </div> -->
           </div>
         </div>
         <!-- End Slide -->
 
         <!-- Slide -->
         <div class="js-slide">
-          <div class="container space-top-2 space-bottom-3" style="margin-top: 100px;">
-            <div class="row align-items-lg-center">
-              <div class="col-lg-5 order-lg-2 mb-7 mb-lg-0">
+          <div class="container space-top-2 space-bottom-3 slideDos" style="margin-top: 100px;">
+            <!-- <div class="row align-items-lg-center"> -->
+              <!-- <div class="col-lg-5 order-lg-2 mb-7 mb-lg-0">
                 <div class="mb-6">
                   <h2 class="display-4 font-size-md-down-5 font-weight-semi-bold mb-4">Apple iPad Pro</h2>
                   <p>It's all new, all screen, and all powerful. Completely redesigned and packed with our most advanced technology, it will make you rethink what iPad is capable of.</p>
@@ -111,22 +111,22 @@
                 <a class="btn btn-icon btn-outline-primary rounded-circle" href="#" data-toggle="tooltip" data-placement="top" title="Save for later">
                   <span class="fas fa-heart btn-icon__inner"></span>
                 </a>
-              </div>
-              <div class="col-lg-6 order-lg-1">
+              </div> -->
+              <!-- <div class="col-lg-12 order-lg-12">
                 <div class="w-85 mx-auto">
-                  <img class="img-fluid" src="../../assets/img/mockups/img9.png" alt="Image Description">
+                  <img class="img-fluid" src="../../assets/img/SlideDos.jpg" alt="Image Description">
                 </div>
-              </div>
-            </div>
+              </div> -->
+            <!-- </div> -->
           </div>
         </div>
         <!-- End Slide -->
 
         <!-- Slide -->
         <div class="js-slide">
-          <div class="container space-top-2 space-bottom-3" style="margin-top: 100px;">
-            <div class="row align-items-lg-center">
-              <div class="col-lg-5 order-lg-2 mb-7 mb-lg-0">
+          <div class="container space-top-2 space-bottom-3 slideTres" style="margin-top: 100px;">
+            <!-- <div class="row align-items-lg-center"> -->
+              <!-- <div class="col-lg-5 order-lg-2 mb-7 mb-lg-0">
                 <div class="mb-6">
                   <h3 class="display-4 font-size-md-down-5 font-weight-semi-bold mb-4">Celio hoodie</h3>
                   <p>Founded in 1985, French label Celio channels 30 years of expertise into its contemporary menswear range. Expect fly style for a city or beach with its denim shorts, chinos and printed jersey.</p>
@@ -135,13 +135,13 @@
                 <a class="btn btn-icon btn-outline-primary rounded-circle" href="#" data-toggle="tooltip" data-placement="top" title="Save for later">
                   <span class="fas fa-heart btn-icon__inner"></span>
                 </a>
-              </div>
-              <div class="col-lg-6 order-lg-1">
+              </div> -->
+              <!-- <div class="col-lg-12 order-lg-12">
                 <div class="w-85 mx-auto">
-                  <img class="img-fluid" src="../../assets/img/mockups/img6.png" alt="Image Description">
+                  <img class="img-fluid" src="../../assets/img/SlideTres.png" alt="Image Description">
                 </div>
-              </div>
-            </div>
+              </div> -->
+            <!-- </div> -->
           </div>
         </div>
         <!-- End Slide -->
@@ -149,7 +149,7 @@
       <!-- End Main Slider -->
 
       <!-- Slider Nav -->
-      <div class="position-absolute bottom-0 w-100">
+      <div class="position-absolute bottom-0 w-100 hidden" style="display: none">
         <div class="container space-bottom-1">
           <div id="heroSliderNav" class="js-slick-carousel u-slick u-slick--transform-off max-width-27 mx-auto"
                data-slides-show="3"
@@ -165,17 +165,17 @@
                data-nav-for="#heroSlider">
             <div class="js-slide p-1">
               <a class="js-slick-thumb-progress position-relative d-block u-avatar border rounded-circle p-1" href="javascript:;">
-                <img class="img-fluid rounded-circle" src="../../assets/img/100x100/img13.jpg" alt="Image Description">
+                <!-- <img class="img-fluid rounded-circle" src="../../assets/img/100x100/img13.jpg" alt="Image Description"> -->
               </a>
             </div>
             <div class="js-slide p-1">
               <a class="js-slick-thumb-progress position-relative d-block u-avatar border rounded-circle p-1" href="javascript:;">
-                <img class="img-fluid rounded-circle" src="../../assets/img/100x100/img14.jpg" alt="Image Description">
+                <!-- <img class="img-fluid rounded-circle" src="../../assets/img/100x100/img14.jpg" alt="Image Description"> -->
               </a>
             </div>
             <div class="js-slide p-1">
               <a class="js-slick-thumb-progress position-relative d-block u-avatar border rounded-circle p-1" href="javascript:;">
-                <img class="img-fluid rounded-circle" src="../../assets/img/100x100/img15.jpg" alt="Image Description">
+                <!-- <img class="img-fluid rounded-circle" src="../../assets/img/100x100/img15.jpg" alt="Image Description"> -->
               </a>
             </div>
           </div>
@@ -400,4 +400,24 @@
         <!-- End News Carousel -->
       </div>
 </div>
+<style>
+.slideUno{
+    background:url(assets/img/SlideUnoNew.png) no-repeat fixed center;
+    background-size: cover;
+    height: 100%;
+    width : 100%;
+}
+.slideDos{
+    background:url(assets/img/SlideDos.jpg) no-repeat fixed center;
+    background-size: cover;
+    height: 100%;
+    width : 100%;
+}
+.slideTres{
+    background:url(assets/img/SlideTres.png) no-repeat fixed center;
+    background-size: cover;
+    height: 100%;
+    width : 100%;
+}
+</style>
 @endsection
